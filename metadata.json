@@ -1,0 +1,6 @@
+{
+  "name": "Daily Habit Pro",
+  "description": "Minimalist, premium daily habit tracker with streaks, category organization, analytics, completion confetti, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
